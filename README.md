@@ -12,6 +12,6 @@ Check out the completed project [here](https://forkify-samin.netlify.app/).
 
 #### Credit:
 - Inspired by Jonas Schedtmann
-- https://www.udemy.com/course/the-complete-javascript-course/
+- Udemy Course: https://www.udemy.com/course/the-complete-javascript-course/
 
 Thanks for checking out the project.
