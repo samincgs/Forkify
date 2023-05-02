@@ -10,4 +10,8 @@ Check out the completed project [here](https://forkify-samin.netlify.app/).
 - Users can add their own recipe and save it on the website
 - Users can save their favorite recipes by bookmarking them
 
+#### Credit:
+- Inspired by Jonas Schedtmann
+- https://www.udemy.com/course/the-complete-javascript-course/
+
 Thanks for checking out the project.
